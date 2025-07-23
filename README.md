@@ -7,4 +7,4 @@ Wykoanne na podstawie wzoru z https://mech.pk.edu.pl/studenci/praca-dyplomowa/
 
 Templatka dostępna również w galerii Overleaf
 
-![Uploading image.png…]()
+<img width="759" height="1061" alt="image" src="https://github.com/user-attachments/assets/4a8f204b-a18c-4f24-bbc7-fbccad782ed8" />
