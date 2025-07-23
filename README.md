@@ -6,3 +6,5 @@ Data 23.07.2025 r.
 Wykoanne na podstawie wzoru z https://mech.pk.edu.pl/studenci/praca-dyplomowa/
 
 Templatka dostępna również w galerii Overleaf
+
+![Uploading image.png…]()
