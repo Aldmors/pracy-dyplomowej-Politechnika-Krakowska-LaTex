@@ -14,9 +14,12 @@ jobs:
             root_file: main.tex
             texlive_version: 2025
             latexmk_shell_escape: true
+
+      - name: Rename file 
+        run: mv main.pdf pk_template.pdf
             
       - name: Upload PDF file
         uses: actions/upload-artifact@v6
         with:
             name: PDF
-            path: main.pdf
+            path: pk_template.pdf
